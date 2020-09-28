@@ -1,0 +1,3 @@
+this is a new line
+This is a second line appended to the file
+this is another line, i can appendmore lineswith the fa variable
